@@ -1,2 +1,2 @@
 # SiteEstoque
-Por enquanto o nosso Projeto está em construção.
+Projeto realizado nq disciplina de TPI 2
